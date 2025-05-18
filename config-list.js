@@ -42,6 +42,9 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCkhvYNhfaV3y0FFpvTjdRqg',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
+
+  // ======= 以上 5 個 ================
+  
   {
     title: '杰克艾米立 AI大小事',
     feedID: 'JackEllie-AInews',
@@ -51,6 +54,19 @@ let feedList = [
       ItemFiltersPreset.between1minTo30Min,
       // (item) => { return ((item.title.indexOf('AI大小事') >-1)) }
     ],
+  },
+
+  {
+    title: '社長Kuma 聊 ACG八卦',
+    feedID: 'Super_Kuma',
+    homepageURL: 'https://www.youtube.com/channel/UC4_ofgezp9nrPXHSmZMT97g',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+  {
+    title: '峰哥Fege 聊 YouTube八卦',
+    feedID: 'fege0128',
+    homepageURL: 'https://www.youtube.com/channel/UCeypx1ck3i7Q-GqUUceWv2A',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
 ]
 
