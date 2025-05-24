@@ -68,6 +68,16 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCeypx1ck3i7Q-GqUUceWv2A',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
+
+  {
+    title: '范琪斐的美國時間【行動代號】',
+    feedID: 'fanamericantime-code2027',
+    homepageURL: 'https://www.youtube.com/channel/UC2VKL-DkRvXtWkfjMzkYvmw',
+    itemFilters: [
+      ItemFiltersPreset.between3minTo60Min,
+      (item) => { return (item.title.indexOf('【行動代號2027】') > -1) }
+    ] // 霸道總裁攀岩開會、網紅天天搞小團體...《絕世網紅》劇情超浮誇？《 志祺今天不讀稿 》EP010｜志祺七七
+  },
 ]
 
 // 
