@@ -78,6 +78,12 @@ let feedList = [
       (item) => { return (item.title.indexOf('【行動代號2027】') > -1) }
     ] // 霸道總裁攀岩開會、網紅天天搞小團體...《絕世網紅》劇情超浮誇？《 志祺今天不讀稿 》EP010｜志祺七七
   },
+  {
+    title: '红酒汤姆一世 聊 遊戲',
+    feedID: 'redwinetom',
+    homepageURL: 'https://www.youtube.com/@redwinetom',
+    itemFilters: ItemFiltersPreset.between3minTo60Min,
+  },
 ]
 
 // 
