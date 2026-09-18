@@ -1,0 +1,33 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+  <channel>
+    <title><![CDATA[TESTV 值不值得買[YT+]]]></title>
+    <link>undefined</link>
+    <image>
+      <url>https://fastly.picsum.photos/id/342/800/800.jpg?hmac=s7TzMTZ38j0Sj9iwYptmvsmgjSx-ADX7bPkMCqYFE0c</url>
+      <title>TESTV 值不值得買[YT+]</title>
+      <link>undefined</link>
+    </image>
+    <language>en-us</language>
+    <atom:link href="undefined" rel="self" type="application/rss+xml"/>
+    <copyright><![CDATA[TESTV 值不值得買[YT+]]]></copyright>
+    <itunes:author><![CDATA[TESTV 值不值得買[YT+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[
+      Failed to parse feed: Status code 500<br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCoAmv3Imi3Tl1dnseAMSqug" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCoAmv3Imi3Tl1dnseAMSqug</a>
+      ]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[
+      Failed to parse feed: Status code 500<br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCoAmv3Imi3Tl1dnseAMSqug" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCoAmv3Imi3Tl1dnseAMSqug</a>
+      ]]>
+    </description>
+    <itunes:owner>
+      <itunes:name><![CDATA[TESTV 值不值得買[YT+]]]></itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://fastly.picsum.photos/id/342/800/800.jpg?hmac=s7TzMTZ38j0Sj9iwYptmvsmgjSx-ADX7bPkMCqYFE0c"/>
+</channel>
+</rss>
