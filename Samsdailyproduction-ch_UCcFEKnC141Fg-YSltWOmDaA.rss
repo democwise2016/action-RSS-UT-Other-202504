@@ -3,7 +3,7 @@
     <title><![CDATA[山小日子[YT+]]]></title>
     <link>undefined</link>
     <image>
-      <url>https://fastly.picsum.photos/id/342/800/800.jpg?hmac=s7TzMTZ38j0Sj9iwYptmvsmgjSx-ADX7bPkMCqYFE0c</url>
+      <url>https://fastly.picsum.photos/id/1048/800/800.jpg?hmac=x35WuevuyOy7d3flHpHuGY1hO4gLUsrPlriS5twoH3Q</url>
       <title>山小日子[YT+]</title>
       <link>undefined</link>
     </image>
@@ -13,14 +13,14 @@
     <itunes:author><![CDATA[山小日子[YT+]]]></itunes:author>
     <itunes:summary>
       <![CDATA[
-      Failed to parse feed: Status code 500<br />
+      Failed to parse feed: Status code 404<br />
 <br />
 <a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCcFEKnC141Fg-YSltWOmDaA" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCcFEKnC141Fg-YSltWOmDaA</a>
       ]]>
     </itunes:summary>
     <description>
       <![CDATA[
-      Failed to parse feed: Status code 500<br />
+      Failed to parse feed: Status code 404<br />
 <br />
 <a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCcFEKnC141Fg-YSltWOmDaA" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCcFEKnC141Fg-YSltWOmDaA</a>
       ]]>
@@ -28,6 +28,6 @@
     <itunes:owner>
       <itunes:name><![CDATA[山小日子[YT+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/342/800/800.jpg?hmac=s7TzMTZ38j0Sj9iwYptmvsmgjSx-ADX7bPkMCqYFE0c"/>
+    <itunes:image href="https://fastly.picsum.photos/id/1048/800/800.jpg?hmac=x35WuevuyOy7d3flHpHuGY1hO4gLUsrPlriS5twoH3Q"/>
 </channel>
 </rss>
